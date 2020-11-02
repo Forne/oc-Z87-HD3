@@ -140,10 +140,6 @@
 			</dict>
 			<key>PciRoot(0x0)/Pci(0x2,0x0)</key>
 			<dict>
-				<key>AAPL,ig-platform-id</key>
-				<data>BAASBA==</data>
-				<key>igfxfw</key>
-				<data>AgAAAA==</data>
 				<key>device-id</key>
 				<data>EgQAAA==</data>
 			</dict>
